@@ -1,0 +1,13 @@
+C:\Users\п\Desktop\2018 программирование\комбинаторика\perestan1\perestan1\bin\Debug\perestan1.exe.config
+C:\Users\п\Desktop\2018 программирование\комбинаторика\perestan1\perestan1\bin\Debug\perestan1.exe
+C:\Users\п\Desktop\2018 программирование\комбинаторика\perestan1\perestan1\bin\Debug\perestan1.pdb
+C:\Users\п\Desktop\2018 программирование\комбинаторика\perestan1\perestan1\obj\Debug\perestan1.csprojResolveAssemblyReference.cache
+C:\Users\п\Desktop\2018 программирование\комбинаторика\perestan1\perestan1\obj\Debug\perestan1.exe
+C:\Users\п\Desktop\2018 программирование\комбинаторика\perestan1\perestan1\obj\Debug\perestan1.pdb
+C:\Users\e.p.gringaut\Desktop\perestan1\perestan1\bin\Debug\perestan1.exe.config
+C:\Users\e.p.gringaut\Desktop\perestan1\perestan1\bin\Debug\perestan1.exe
+C:\Users\e.p.gringaut\Desktop\perestan1\perestan1\bin\Debug\perestan1.pdb
+C:\Users\e.p.gringaut\Desktop\perestan1\perestan1\obj\Debug\perestan1.csprojResolveAssemblyReference.cache
+C:\Users\e.p.gringaut\Desktop\perestan1\perestan1\obj\Debug\perestan1.csproj.CoreCompileInputs.cache
+C:\Users\e.p.gringaut\Desktop\perestan1\perestan1\obj\Debug\perestan1.exe
+C:\Users\e.p.gringaut\Desktop\perestan1\perestan1\obj\Debug\perestan1.pdb
